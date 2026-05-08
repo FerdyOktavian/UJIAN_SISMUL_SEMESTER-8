@@ -10,12 +10,13 @@
         <div class="nav-inner">
             <a href="/produk" class="logo">Sembako<span>Ku</span></a>
 
-            <div class="nav-menu">
-                <a href="#home">Home</a>
-                <a href="#cerita">Cerita Toko</a>
-                <a href="#produk">Produk</a>
-                <a href="/produk/create" class="nav-btn">Tambah Barang</a>
-            </div>
+        <div class="nav-menu">
+            <a href="#home">Home</a>
+            <a href="#cerita">Cerita Toko</a>
+            <a href="#produk">Produk</a>
+            <a href="/about">Tentang Pembuat</a>
+            <a href="/produk/create" class="nav-btn">Tambah Barang</a>
+        </div>
         </div>
     </nav>
 

@@ -99,4 +99,8 @@ public function delete($id)
 
     return redirect()->to('/produk');
 }
+public function about()
+{
+    return view('produk/about');
+}
 }
